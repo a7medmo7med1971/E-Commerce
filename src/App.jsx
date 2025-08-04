@@ -12,7 +12,6 @@ import Notfound from './component/Notfound/Notfound.jsx';
 import Layout from './component/Layout/Layout.jsx';
 import UserContext from './component/UserContext/UserContext.jsx';
 import ContextCarts from './component/ContextCarts/ContextCarts.jsx'
-// import Protected from './component/protected/protected.jsx';
 import ProductDetiels from './component/ProductDetiels/ProductDetiels.jsx';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools'
@@ -20,10 +19,10 @@ import { Toaster } from 'react-hot-toast';
 import Payment from './component/Payment/Payment.jsx';
 import AllOrders from './component/AllOrders/AllOrders.jsx';
 import UserOrders from './component/UserOrders/UserOrders.jsx';
-import PaymentOnline from './component/paymentOnline/paymentOnline.jsx';
 import ContextWshlist from './component/ContextWshlist/ContextWshlist.jsx';
 import WshlistProducts from './component/WshlistProducts/WshlistProducts.jsx';
 import Protected from './component/Protected/Protected.jsx';
+import PaymentOnline from './component/paymentOnline/paymentOnline.jsx';
 
 
 
