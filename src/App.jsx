@@ -22,7 +22,8 @@ import UserOrders from './component/UserOrders/UserOrders.jsx';
 import ContextWshlist from './component/ContextWshlist/ContextWshlist.jsx';
 import WshlistProducts from './component/WshlistProducts/WshlistProducts.jsx';
 import Protected from './component/Protected/Protected.jsx';
-import PaymentOnline from './component/paymentOnline/paymentOnline.jsx';
+import PaymentOnline from './component/paymentOnline/PaymentOnline.jsx';
+
 
 
 
