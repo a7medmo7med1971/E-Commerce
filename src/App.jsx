@@ -1,10 +1,9 @@
-import React from 'react'; // ✅ مهم جدًا
+import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './App.css';
 import './index.css';
 import Home from './component/Home/Home.jsx';
 import Login from './component/Login/Login.jsx';
-import Brands from './component/Brands/Brands.jsx';
 import Products from './component/Products/Products.jsx';
 import Register from './component/Register/Register.jsx';
 import Carts from './component/Carts/Carts.jsx';
@@ -23,6 +22,7 @@ import ContextWshlist from './component/ContextWshlist/ContextWshlist.jsx';
 import WshlistProducts from './component/WshlistProducts/WshlistProducts.jsx';
 import Protected from './component/Protected/Protected.jsx';
 import PaymentOnline from './component/paymentOnline/PaymentOnline.jsx';
+
 
 
 
